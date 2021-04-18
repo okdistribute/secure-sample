@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "nanoassert": "^2.0.0",
-    "secure-random-uniform": "^4.0.0"
+    "secure-random-uniform": "github:okdistribute/secure-random-uniform#patch-1"
   },
   "devDependencies": {
     "tape": "^5.0.0"
